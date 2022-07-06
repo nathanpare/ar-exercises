@@ -20,4 +20,6 @@ puts "----------"
 @store2.employees.create(first_name: "Luan", last_name: "Oliveira", hourly_rate: 45)
 @store2.employees.create(first_name: "Chris", last_name: "Joslin", hourly_rate: 20)
 
-puts @store2.employees
+# puts @store1.employees
+# puts @store2.employees
+
